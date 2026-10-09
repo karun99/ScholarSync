@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "scholarsync": {
+      "command": "node",
+      "args": [
+        "mcp-server/server.mjs"
+      ]
+    }
+  }
+}
